@@ -1,6 +1,6 @@
 Test
 
-Download the latest Git for Windows installer.
+Dow is thesting test Git for Windows installer.
 Tetst
 Where Pankaj WAdhwa you've is the successfully started the installer, you should see the Git Setup wizard screen. Follow the Next and Finish testing prompts to complete the installation. The default options are pretty sensible for most users.
 
